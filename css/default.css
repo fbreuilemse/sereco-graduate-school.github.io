@@ -12,28 +12,41 @@ body {
 }
 
 header {
-    margin: 0;
+    max-width: 640px;
+    margin: auto;
     padding: 20px;  
     color: white;
     font-weight: bolder;
     font-size: 2.5em;
-    background-color: lightslategray;
-    border-bottom: 1px solid darkgray;
+    color: lightgrey;
+    text-align: center;
+    border-bottom: 1px solid lightgrey;
 }
 
-/*
-header span:nth-child(1) {
+header a {
+    color: lightgrey;
+    text-decoration: none;
+}
+
+header a span {
+    display: none;
+}
+
+header a:hover span {
+    display: inline;
+}
+
+header a span.first {
     color: hsl(0, 30%, 80%);
 }
 
-header span:nth-child(2) {
+header span.second {
     color: hsl(127, 30%, 80%);
 }
 
-header span:nth-child(3) {
+header span.third {
     color: hsl(255, 30%, 80%);
 }
-*/
 
 footer {
     max-width: 640px;
