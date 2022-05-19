@@ -54,26 +54,25 @@
   </tr>
   <tr>
     <td>15h30</td>
-    <td class="presentation">Leveraging Human-Agent Collaboration for Multimodal Task Guidance with Concurrent Authoring Capabilities (Christian Fleiner)</td>
-  </tr>
-  <tr>
-    <td>16h00</td>
     <td class="presentation">Multi-Agent Systems in the Semantic Web (Daniel Schraudner)</td>
   </tr>
   <tr>
-    <td>16h30</td>
+    <td>16h00</td>
     <td class="presentation">Question Answering Technologies for Knowledge Graphs (Dennis Diefenbach)</td>
   </tr>
   <tr>
-    <td>17h00</td>
+    <td>16h30</td>
     <td rowspan="2" class="highlight">Demos</td>
   </tr>
   <tr>
+    <td>17h00</td>
+  </tr>
+  <tr>
     <td>17h30</td>
+    <td rowspan="3"></td>
   </tr>
   <tr>
     <td>18h00</td>
-    <td rowspan="2"></td>
   </tr>
   <tr>
     <td>18h30</td>
