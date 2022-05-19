@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td>11h30</td>
-    <td class="presentation">? (Ganesh Ramanathan)</td>
+    <td class="presentation">Building a Knowledge Base on Trusted Electronics (Daniel Henselmann)</td>
   </tr>
   <tr>
     <td>12h00</td>
@@ -99,7 +99,7 @@
   </tr>
   <tr>
     <td>9h30</td>
-    <td class="presentation">Building a Knowledge Base on Trusted Electronics (Daniel Henselmann)</td>
+    <td class="presentation">Question Answering Technologies for Knowledge Graphs (Dennis Diefenbach)</td>
   </tr>
   <tr>
     <td>10h00</td>
