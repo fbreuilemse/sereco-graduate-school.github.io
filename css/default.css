@@ -1,0 +1,72 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+#main {
+    max-width: 640px;
+    margin: auto;
+}
+
+header {
+    margin: 0;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    font-weight: bolder;
+    font-size: 2.5em;
+    background-color: lightslategray;
+    border-bottom: 1px solid darkgray;
+}
+
+header span:nth-child(1) {
+    color: hsl(0, 30%, 80%);
+}
+
+header span:nth-child(2) {
+    color: hsl(127, 30%, 80%);
+}
+
+header span:nth-child(3) {
+    color: hsl(255, 30%, 80%);
+}
+
+footer {
+    max-width: 640px;
+    margin: auto;
+    color: lightgray;
+}
+
+footer a {
+    color: darkgrey;
+}
+
+.agenda td {
+    height: 3em;
+    padding: 5px;
+}
+
+.agenda td:nth-child(1) {
+    text-align: center;
+}
+
+.agenda td:nth-child(2).admin {
+    background-color: hsla(0, 50%, 80%, 0.5);
+}
+
+.agenda td:nth-child(2).presentation {
+    background-color: hsla(64, 50%, 80%, 0.5);
+}
+
+.agenda td:nth-child(2).highlight {
+    background-color: hsla(128, 50%, 80%, 0.5);
+}
+
+.agenda td:nth-child(2) {
+    background-color: hsla(0, 0%, 80%, 0.5);
+}
