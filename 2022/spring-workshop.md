@@ -7,11 +7,8 @@
     <th colspan="2">Monday (23/05)</th>
   </tr>
   <tr>
-    <td>9h00</td>
-    <td rowspan="2"></td>
-  </tr>
-  <tr>
     <td>9h30</td>
+    <td></td>
   </tr>
   <tr>
     <td>10h00</td>
@@ -65,17 +62,18 @@
   </tr>
   <tr>
     <td>16h30</td>
-    <td rowspan="2" class="highlight">Demos</td>
+    <td class="presentation">Question Answering Technologies for Knowledge Graphs (Dennis Diefenbach)</td>
   </tr>
   <tr>
     <td>17h00</td>
+    <td rowspan="2" class="highlight">Demos</td>
   </tr>
   <tr>
     <td>17h30</td>
-    <td rowspan="3"></td>
   </tr>
   <tr>
     <td>18h00</td>
+    <td rowspan="2"></td>
   </tr>
   <tr>
     <td>18h30</td>
@@ -94,12 +92,8 @@
     <th colspan="2">Tuesday (24/05)</th>
   </tr>
   <tr>
-    <td>9h00</td>
-    <td class="presentation">PhD introductions (Mouloud Iferroudjène, Zehor Thilleli Hounas)</td>
-  </tr>
-  <tr>
     <td>9h30</td>
-    <td class="presentation">Question Answering Technologies for Knowledge Graphs (Dennis Diefenbach)</td>
+    <td class="presentation">PhD introductions (Mouloud Iferroudjène, Zehor Thilleli Hounas)</td>
   </tr>
   <tr>
     <td>10h00</td>
@@ -132,5 +126,3 @@
     <td>13h30</td>
   </tr>
 </table>
-
-<!-- Dennis Diefenbach ? -->
