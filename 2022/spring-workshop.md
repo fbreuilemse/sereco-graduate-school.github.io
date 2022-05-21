@@ -2,9 +2,29 @@
 ---
 # SeReCo Spring Workshop 2022
 
+## Location
+
+The workshop is located at [Campus Région numérique](https://campusnumerique.auvergnerhonealpes.fr/decouvrir-campus/venir-au-campus-region-du-numerique/): **78 route de Paris** in **Charbonnières-les-Bains**. Look for the  **Deck** building.
+
+<div style="text-align: center; max-width: 100%;">
+  <img src="/img/diwii-plan.png" alt="Annonated map of Campus numérique">
+</div>
+
+Access to the campus is restricted.
+Scan the following QR code to pass revolving doors behind the parking lot:
+
+<div style="text-align: center;">
+  <img src="/img/diwii-qrcode.png" alt="QR code to access Campus numérique">
+</div>
+
+
+
+## Program
+
 <table class="agenda">
   <tr>
-    <th colspan="2">Monday (23/05)</th>
+    <th></th>
+    <th>Monday (23/05)</th>
   </tr>
   <tr>
     <td>9h30</td>
@@ -16,15 +36,15 @@
   </tr>
   <tr>
     <td>10h30</td>
-    <td class="presentation">BLAST: Block Applications for Things (Michael Freund)</td>
+    <td class="presentation">Multi-Agent Systems in the Semantic Web (Daniel Schraudner)</td>
   </tr>
   <tr>
     <td>11h00</td>
-    <td class="presentation">A Domain-Specific Language for Constrained Semantic Web of Things (Fatma-Zohra Hannou)</td>
+    <td class="presentation">Question Answering Technologies for Knowledge Graphs (Dennis Diefenbach)</td>
   </tr>
   <tr>
     <td>11h30</td>
-    <td class="presentation">Building a Knowledge Base on Trusted Electronics (Daniel Henselmann)</td>
+    <td class="presentation">HDTr: Managing Reified Triples in Compressed Space (José M. Giménez-García)</td>
   </tr>
   <tr>
     <td>12h00</td>
@@ -54,22 +74,23 @@
   </tr>
   <tr>
     <td>15h30</td>
-    <td class="presentation">Multi-Agent Systems in the Semantic Web (Daniel Schraudner)</td>
+    <td class="presentation">A Domain-Specific Language for Constrained Semantic Web of Things (Fatma-Zohra Hannou)</td>
   </tr>
   <tr>
     <td>16h00</td>
-    <td class="presentation">Question Answering Technologies for Knowledge Graphs (Dennis Diefenbach)</td>
+    <td class="presentation">BLAST: Block Applications for Things (Michael Freund)</td>
   </tr>
   <tr>
     <td>16h30</td>
-    <td rowspan="2" class="highlight">Demos</td>
+    <td class="presentation">Building a Knowledge Base on Trusted Electronics (Daniel Henselmann)</td>
   </tr>
   <tr>
     <td>17h00</td>
+    <td class="presentation">Linked-Data augmented in-browser interaction with the Digital Twin of a Smart Building (Arun Raveendran Sheela)</td>
   </tr>
   <tr>
     <td>17h30</td>
-    <td rowspan="3"></td>
+    <td rowspan="4"></td>
   </tr>
   <tr>
     <td>18h00</td>
@@ -79,7 +100,10 @@
   </tr>
   <tr>
     <td>19h00</td>
-    <td rowspan="2" class="highlight">Dinner at Brasserie Bocuse Ouest</td>
+  </tr>
+  <tr>
+    <td>19h30</td>
+    <td rowspan="2" class="highlight">Dinner at <a href="https://www.openstreetmap.org/node/1364637809">Brasserie Bocuse Ouest</a></td>
   </tr>
   <tr>
     <td>...</td>
@@ -88,15 +112,16 @@
 
 <table class="agenda">
   <tr>
-    <th colspan="2">Tuesday (24/05)</th>
+    <th></th>
+    <th>Tuesday (24/05)</th>
   </tr>
   <tr>
     <td>9h30</td>
-    <td class="presentation">PhD introductions (Mouloud Iferroudjène, Zehor Thilleli Hounas)</td>
+    <td></td>
   </tr>
   <tr>
     <td>10h00</td>
-    <td class="presentation">HDTr: Managing Reified Triples in Compressed Space (José M. Giménez-García)</td>
+    <td class="presentation">PhD introductions (Mouloud Iferroudjène, Zehor Thilleli Hounas)</td>
   </tr>
   <tr>
     <td>10h30</td>

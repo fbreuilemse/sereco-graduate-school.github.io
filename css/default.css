@@ -12,6 +12,10 @@ body {
     padding: 5px;
 }
 
+#main img {
+    max-width: 100%;
+}
+
 header {
     max-width: 640px;
     margin: auto;
