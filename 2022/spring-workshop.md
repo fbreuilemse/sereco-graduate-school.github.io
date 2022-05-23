@@ -4,7 +4,7 @@
 
 ## Location
 
-The workshop is located at [Campus Région numérique](https://campusnumerique.auvergnerhonealpes.fr/decouvrir-campus/venir-au-campus-region-du-numerique/): **78 route de Paris** in **Charbonnières-les-Bains**. Look for the  **Deck** building.
+The workshop is located at [Campus Région numérique](https://campusnumerique.auvergnerhonealpes.fr/decouvrir-campus/venir-au-campus-region-du-numerique/): **78 route de Paris** in **Charbonnières-les-Bains**. It takes place in room **Deck** <span style="color: lightgrey;">(building)</span> **RC** <span style="color: lightgrey;">(floor)</span> **10** <span style="color: lightgrey;">(room number)</span>.
 
 <div style="text-align: center; max-width: 100%;">
   <img src="/img/diwii-plan.png" alt="Annonated map of Campus numérique">
@@ -125,7 +125,7 @@ Scan the following QR code to pass revolving doors behind the parking lot:
   </tr>
   <tr>
     <td>10h30</td>
-    <td class="admin">Break</td>
+    <td class="presentation">Reasoning in the Constrained Semantic Web of Things (Lina Nachabe)</td>
   </tr>
   <tr>
     <td>11h00</td>

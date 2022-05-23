@@ -16,6 +16,10 @@ body {
     max-width: 100%;
 }
 
+#main table {
+    width: 100%;
+}
+
 header {
     max-width: 640px;
     margin: auto;
