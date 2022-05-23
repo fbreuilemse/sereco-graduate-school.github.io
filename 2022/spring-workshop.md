@@ -44,7 +44,7 @@ Scan the following QR code to pass revolving doors behind the parking lot:
   </tr>
   <tr>
     <td>11h30</td>
-    <td class="presentation">HDTr: Managing Reified Triples in Compressed Space (José M. Giménez-García)</td>
+    <td class="presentation">Building a Knowledge Base on Trusted Electronics (Daniel Henselmann)</td>
   </tr>
   <tr>
     <td>12h00</td>
@@ -78,11 +78,11 @@ Scan the following QR code to pass revolving doors behind the parking lot:
   </tr>
   <tr>
     <td>16h00</td>
-    <td class="presentation">BLAST: Block Applications for Things (Michael Freund)</td>
+    <td class="presentation">HDTr: Managing Reified Triples in Compressed Space (José M. Giménez-García)</td>
   </tr>
   <tr>
     <td>16h30</td>
-    <td class="presentation">Building a Knowledge Base on Trusted Electronics (Daniel Henselmann)</td>
+    <td class="presentation">BLAST: Block Applications for Things (Michael Freund)</td>
   </tr>
   <tr>
     <td>17h00</td>
@@ -137,14 +137,14 @@ Scan the following QR code to pass revolving doors behind the parking lot:
   </tr>
   <tr>
     <td>12h00</td>
-    <td rowspan="2" class="admin">Lunch</td>
+    <td rowspan="2" class="highlight">Visit of the DIWII experimentation platform</td>
   </tr>
   <tr>
     <td>12h30</td>
   </tr>
   <tr>
     <td>13h00</td>
-    <td rowspan="2" class="highlight">Visit of the DIWII experimentation platform</td>
+    <td rowspan="2" class="admin">Lunch</td>
   </tr>
   <tr>
     <td>13h30</td>
